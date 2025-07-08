@@ -37,9 +37,7 @@ This project is licensed under the MIT License. See LICENSE for full terms.
 ## Citation
 If you use Motif Caller in your research, please cite our manuscript:
 
-YourName et al., Motif Caller: Direct Detection of DNA Storage Motifs from Nanopore Signals,
-
-Zenodo archive: [DOI link will go here]
+Agarwal, Parv, and Thomas Heinis. "Motif Caller: Sequence Reconstruction for Motif-Based DNA Storage." arXiv preprint arXiv:2412.16074 (2024).
 
 ## 📬 Contact
 Parv Agarwal
