@@ -29,7 +29,7 @@ Motif-Calling/
 ```
 
 ## 🔐 Data Access
-The training and test datasets are not included in this repository due to its size. The data is hosted on OSF (link)
+The training and test datasets are not included in this repository due to its size. The data is hosted on OSF (https://osf.io/pcdtj/)
 
 ## 📜 License
 This project is licensed under the MIT License. See LICENSE for full terms.
